@@ -47,4 +47,5 @@ Here are some ideas to get you started:
   - [js.web.components](https://github.com/joao-neves95/js.web.components):\
     A vanilla JavaScript framework inspired by Angular, React and ASP.NET, with a custom templating engine compiler, components for a component based architecture, and template view utils like for loops and if statements.
 
-You can find a more complete list of projects and experiments <u>**[here](https://github.com/joao-neves95/Exercises_Challenges_Courses)**</u>.
+You can find a more complete list of projects and experiments <u>**[here](https://github.com/joao-neves95/Exercises_Challenges_Courses)**</u>,
+other projects are private or stored offline.
