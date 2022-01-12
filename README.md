@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### These are some of my open source projects divided by tech stack
+#### These are some of my open source projects divided by tech stack:
 
 ##### C#
 
@@ -51,5 +51,10 @@ Here are some ideas to get you started:
 
 Here's a summary: https://resume.github.io/?joao-neves95
 
-You can find a more complete list of projects and experiments <u>**[here](https://github.com/joao-neves95/Exercises_Challenges_Courses)**</u>,
-other projects are private or stored offline.
+[You can find a more complete list of projects and experiments <u>**here**</u>](https://github.com/joao-neves95/Exercises_Challenges_Courses), other projects are private or stored offline.
+
+---
+
+[![SHIVAYL's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-neves95)](https://github.com/joao-neves95)
+
+---
