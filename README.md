@@ -55,6 +55,8 @@ Here's a summary: https://resume.github.io/?joao-neves95
 
 ---
 
-[![SHIVAYL's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-neves95)](https://github.com/joao-neves95)
+<img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joao-neves95&theme=github_dark" />
+
+[![SHIVAYL's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-neves95&theme=dark&show_icons=true)](https://github.com/joao-neves95)
 
 ---
