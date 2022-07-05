@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 #### These are some of my open source projects divided by tech stack:
 
+[You can find a more complete list of projects and experiments <u>**here**</u>](https://github.com/joao-neves95/Exercises_Challenges_Courses), other projects are private or stored offline.
+
 ##### C#
 
   - [Amplifir](https://github.com/joao-neves95/Amplifir):\
@@ -50,8 +52,6 @@ Here are some ideas to get you started:
 ---
 
 Here's a summary: https://resume.github.io/?joao-neves95
-
-[You can find a more complete list of projects and experiments <u>**here**</u>](https://github.com/joao-neves95/Exercises_Challenges_Courses), other projects are private or stored offline.
 
 ---
 
