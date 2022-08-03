@@ -19,15 +19,21 @@ Here are some ideas to get you started:
 
 [You can find a more complete list of projects and experiments <u>**here**</u>](https://github.com/joao-neves95/Exercises_Challenges_Courses), other projects are private or stored offline.
 
+##### Rust
+
+- [irspt-rs](https://github.com/joao-neves95/irspt-rs):\
+  A CLI that interfaces with Portugal's Tax Authority website, in order to streamline the process of issuing invoices.\
+  It was made with Rust, [thirtyfour](https://github.com/stevepryde/thirtyfour) (WebDriver client),
+  [sled](https://github.com/spacejam/sled) (embedded database) and [rkyv](https://github.com/rkyv/rkyv) (zero-copy raw byte deserialization).
+
 ##### C#
 
   - [Amplifir](https://github.com/joao-neves95/Amplifir):\
-    A Twitter implementation in .NET Core 3+ and Angular 8+, using DRY, Onion Architecture/Clean Architecture.\
-    Made to explore SOLID principles. Will revise in the future.
+    A Twitter implementation in .NET Core and Angular. Made to explore SOLID principles.
 
-   - [ClassStudio](https://github.com/joao-neves95/ClassStudio):\
-     A code generation tool with a desktop GUI in Electron.NET and a backend in .NET Core 3.0.\
-     It is capable of generating code conversions between multiple languages such as: C# -> Typescript, XML -> C#, etc.
+  - [ClassStudio](https://github.com/joao-neves95/ClassStudio):\
+    A code generation tool with a desktop GUI in Electron.NET and a backend in .NET Core 3.0.\
+    It is capable of generating code conversions between multiple languages such as: C# -> Typescript, XML -> C#, etc.
 
 ##### Node.js
 
