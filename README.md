@@ -27,7 +27,8 @@ Here are some ideas to get you started:
   [sled](https://github.com/spacejam/sled) (embedded database) and [rkyv](https://github.com/rkyv/rkyv) (zero-copy raw byte deserialization).
 
 - [the-super-tiny-lisp-rust-compiler](https://github.com/joao-neves95/Exercises_Challenges_Courses/tree/master/Rust/tut_the-super-tiny-compiler):\
-  A tiny Lisp to Rust compiler done by following and further building upon the JS compiler tutorial "The Super Tiny Compiler".
+  A tiny Lisp to Rust compiler.\
+  It is composed by a lexer/syntax parser, an abstract syntax tree (AST) parser - that abstracts the program representation - and a Rust code generator.
 
 ##### C#
 
