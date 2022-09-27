@@ -22,14 +22,17 @@ Here are some ideas to get you started:
 ##### Rust
 
 - [irspt-rs](https://github.com/joao-neves95/irspt-rs):\
-  A CLI that interfaces with Portugal's Tax Authority website, in order to streamline the process of issuing invoices.\
+  A CLI app that interfaces with Portugal's Tax Authority website, in order to streamline the process of issuing invoices.\
   It was made with Rust, [thirtyfour](https://github.com/stevepryde/thirtyfour) (WebDriver client),
   [sled](https://github.com/spacejam/sled) (embedded database) and [rkyv](https://github.com/rkyv/rkyv) (zero-copy raw byte deserialization).
+
+- [the-super-tiny-lisp-rust-compiler](https://github.com/joao-neves95/Exercises_Challenges_Courses/tree/master/Rust/tut_the-super-tiny-compiler):\
+  A tiny Lisp to Rust compiler done by following and further building upon the JS compiler tutorial "The Super Tiny Compiler".
 
 ##### C#
 
   - [Amplifir](https://github.com/joao-neves95/Amplifir):\
-    A Twitter implementation in .NET Core and Angular. Made to explore SOLID principles.
+    A Twitter implementation in .NET Core and Angular. Made to explore Clean/Onion Architecture.
 
   - [ClassStudio](https://github.com/joao-neves95/ClassStudio):\
     A code generation tool with a desktop GUI in Electron.NET and a backend in .NET Core 3.0.\
@@ -42,10 +45,10 @@ Here are some ideas to get you started:
     
   - [PortfolioOS](https://github.com/joao-neves95/portfolio-os):\
     A social network for programmers, that simulates an operative system with a fully interactive and dynamic desktop.\
-    Users can make their own apps and integrate them on the OS. It has a forum similar to 4chan, profiles/portfolios, a terminal with a working file system, and more.\
-    The frontend was made with pure vanilla JavaScript ES8+ following an MVC pattern.\
-    The server was made on Node.js and Express.js.\
-    The databese is PostgreSQL and it is normalized.
+    Users are able to make their own apps and integrate them on the OS, it has a message board forum, profiles/portfolios,
+    a terminal with a working file system, and more.\
+    The frontend was made with vanilla JavaScript following the MVC pattern.
+    The server was made on Node.js and Express.js, and the databese in PostgreSQL and normalized.
     
 ##### JavaScript
 
