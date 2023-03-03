@@ -32,24 +32,23 @@ Here are some ideas to get you started:
 
 ##### C#
 
-  - [Amplifir](https://github.com/joao-neves95/Amplifir):\
-    A Twitter implementation in .NET Core and Angular. Made to explore Clean/Onion Architecture.
+- [Qapo.DeFi.Bot](https://github.com/joao-neves95/Qapo.DeFi.Bot):\
+  A bot that interfaces with any EVM compatible blockchain (A.K.A. Web3) to farm and dump hyperinflationary tokens. Theres also the Solidity code: [Qapo.Defi.Contracts](https://github.com/joao-neves95/Qapo.DeFi.Contracts).
 
-  - [ClassStudio](https://github.com/joao-neves95/ClassStudio):\
-    A code generation tool with a desktop GUI in Electron.NET and a backend in .NET Core 3.0.\
-    It is capable of generating code conversions between multiple languages such as: C# -> Typescript, XML -> C#, etc.
+- [Amplifir](https://github.com/joao-neves95/Amplifir):\
+  A Twitter implementation in .NET Core and Angular. Made to explore Clean/Onion Architecture.
 
 ##### Node.js
 
-  - [MergerJS](https://github.com/joao-neves95/merger-js):\
+- [MergerJS](https://github.com/joao-neves95/merger-js):\
     Yet another simple cross-platform CLI build tool to bundle JavaScript files, with a custom file import syntax, ES8+ minification, auto build capabilities, and native OS notifications.
     
-  - [PortfolioOS](https://github.com/joao-neves95/portfolio-os):\
-    A social network for programmers, that simulates an operative system with a fully interactive and dynamic desktop.\
-    Users are able to make their own apps and integrate them on the OS, it has a message board forum, profiles/portfolios,
-    a terminal with a working file system, and more.\
-    The frontend was made with vanilla JavaScript following the MVC pattern.
-    The server was made on Node.js and Express.js, and the databese in PostgreSQL and normalized.
+- [PortfolioOS](https://github.com/joao-neves95/portfolio-os):\
+   A social network for programmers, that simulates an operative system with a fully interactive and dynamic desktop.\
+   Users are able to make their own apps and integrate them on the OS, it has a message board forum, profiles/portfolios,
+   a terminal with a working file system, and more.\
+   The frontend was made with vanilla JavaScript following the MVC pattern.
+   The server was made on Node.js and Express.js, and the databese in PostgreSQL and normalized.
     
 ##### JavaScript
 
