@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 
 ##### C#
 
-- [Qapo.DeFi.Bot](https://github.com/joao-neves95/Qapo.DeFi.Bot):\
-  A bot that interfaces with any EVM compatible blockchain (A.K.A. Web3) to farm and dump hyperinflationary tokens. Theres also the Solidity code: [Qapo.Defi.Contracts](https://github.com/joao-neves95/Qapo.DeFi.Contracts).
-
 - [eShop](https://github.com/joao-neves95/Exercises_Challenges_Courses/tree/master/CSharp/eShop/):\
   An implementation of a microservices oriented shopping application, using DDD, CQRS, and Clean Architecture, Asp.Net Web API, Docker, RabbitMQ, the Gateway Aggregation pattern with Ocelot, MongoDB, Redis, SqlServer, PostgreSQL.
+
+- [Qapo.DeFi.Bot](https://github.com/joao-neves95/Qapo.DeFi.Bot):\
+  A bot that interfaces with any EVM compatible blockchain (A.K.A. Web3) to farm and dump hyperinflationary tokens. Theres also the Solidity code: [Qapo.Defi.Contracts](https://github.com/joao-neves95/Qapo.DeFi.Contracts).
 
 ##### Node.js
 
