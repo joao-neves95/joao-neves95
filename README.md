@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **joao-neves95/joao-neves95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,22 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### These are some of my open source projects divided by tech stack:
+### These are some of my open source projects divided by tech stack:
 
 [You can find a more complete list of projects and experiments <u>**here**</u>](https://github.com/joao-neves95/Exercises_Challenges_Courses), other projects are private or stored offline.
 
-##### Rust
+#### Rust
 
 - [irspt-rs](https://github.com/joao-neves95/irspt-rs):\
   A CLI app that interfaces with Portugal's Tax Authority website, in order to streamline the process of issuing invoices.\
   It was made with Rust, [thirtyfour](https://github.com/stevepryde/thirtyfour) (WebDriver client),
   [sled](https://github.com/spacejam/sled) (embedded database) and [rkyv](https://github.com/rkyv/rkyv) (zero-copy raw byte deserialization).
 
-- [the-super-tiny-lisp-rust-compiler](https://github.com/joao-neves95/Exercises_Challenges_Courses/tree/master/Rust/tut_the-super-tiny-compiler):\
-  A tiny Lisp to Rust compiler.\
-  It is composed by a lexer/syntax parser, an abstract syntax tree (AST) parser - that abstracts the program representation - and a Rust code generator.
+- [Redis Clone](https://github.com/joao-neves95/Exercises_Challenges_Courses/tree/master/Rust/codecrafters-redis-rust):\
+  My own implementation of a Redis clone.
+  Mostly done in pure vanilla Rust. It uses Tokio for multithreading.
 
-##### C#
+#### C#
 
 - [eShop](https://github.com/joao-neves95/Exercises_Challenges_Courses/tree/master/CSharp/eShop/):\
   An implementation of a microservices oriented shopping application, using DDD, CQRS, and Clean Architecture, Asp.Net Web API, Docker, RabbitMQ, the Gateway Aggregation pattern with Ocelot, MongoDB, Redis, SqlServer, PostgreSQL.
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - [Qapo.DeFi.Bot](https://github.com/joao-neves95/Qapo.DeFi.Bot):\
   A bot that interfaces with any EVM compatible blockchain (A.K.A. Web3) to farm and dump hyperinflationary tokens. Theres also the Solidity code: [Qapo.Defi.Contracts](https://github.com/joao-neves95/Qapo.DeFi.Contracts).
 
-##### Node.js
+#### Node.js
 
 - [MergerJS](https://github.com/joao-neves95/merger-js):\
     Yet another simple cross-platform CLI build tool to bundle JavaScript files, with a custom file import syntax, ES8+ minification, auto build capabilities, and native OS notifications.
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
    The frontend was made with vanilla JavaScript following the MVC pattern.
    The server was made on Node.js and Express.js, and the databese in PostgreSQL and normalized.
     
-##### JavaScript
+#### JavaScript
 
   - [js.system.collections](https://github.com/joao-neves95/js.system.collections):\
     JavaScript collections inspired by .NET, implementing multiple collection data structures.
