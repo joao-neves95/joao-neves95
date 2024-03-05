@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 
 #### Rust
 
+- [Redis Clone](https://github.com/joao-neves95/redis-clone-rs):\
+  My own implementation of the Redis in-memory data store.\
+  Mostly done in pure vanilla Rust. It uses Tokio for multithreading.
+
 - [irspt-rs](https://github.com/joao-neves95/irspt-rs):\
   A CLI app that interfaces with Portugal's Tax Authority website, in order to streamline the process of issuing invoices.\
-  It was made with Rust, [thirtyfour](https://github.com/stevepryde/thirtyfour) (WebDriver client),
+  Made with Rust, [thirtyfour](https://github.com/stevepryde/thirtyfour) (WebDriver client),
   [sled](https://github.com/spacejam/sled) (embedded database) and [rkyv](https://github.com/rkyv/rkyv) (zero-copy raw byte deserialization).
-
-- [Redis Clone](https://github.com/joao-neves95/Exercises_Challenges_Courses/tree/master/Rust/codecrafters-redis-rust):\
-  My own implementation of a Redis clone.
-  Mostly done in pure vanilla Rust. It uses Tokio for multithreading.
 
 #### C#
 
